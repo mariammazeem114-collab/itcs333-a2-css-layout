@@ -10,7 +10,6 @@ body {
   border-bottom: 2px solid black;
   margin-bottom: 25px;
 }
-
 .card-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
